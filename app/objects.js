@@ -7,3 +7,8 @@ var me = {
 };
 
 //2. Iterate over the object to console.log the propery or key names. 
+
+me['name'] = 'blah';
+me.age = 24;
+me['hair color'] = 'bro'
+console.log(me);
